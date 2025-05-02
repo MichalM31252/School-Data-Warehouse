@@ -1,0 +1,110 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>MultidimensionalProject2</Database>
+    <Server>DESKTOP-HTJV5LN\M</Server>
+    <ConnectionString>Data Source=DESKTOP-HTJV5LN\M;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>2uVzpJtnnlFLy4wDggkyogSoUTA=4/25/2025 6:50:114/25/2025 5:56:04</TimeStamp>
+        <ID>
+          <String>Jedynka</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>VzquSBnQKx22tDkJ5VxrvJ2BHdA=4/25/2025 5:56:414/25/2025 5:56:41</TimeStamp>
+        <ID>
+          <String>Jedynka</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>3CgBgw2nPPpMHGDn0XXDbQOhjoo=4/25/2025 11:29:514/25/2025 5:57:22</TimeStamp>
+        <ID>
+          <String>Activity</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>SdckpHerw1q7tUmmLGOZ65ChDXc=4/25/2025 11:30:394/25/2025 5:57:22</TimeStamp>
+        <ID>
+          <String>Dates</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>zm6ZqDZTYxowzM/sJKF+IqtkCTU=4/25/2025 11:30:484/25/2025 5:57:22</TimeStamp>
+        <ID>
+          <String>Student</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>a4SADetkx1FOszk9pbVOn/L4V0I=4/25/2025 11:30:544/25/2025 5:57:22</TimeStamp>
+        <ID>
+          <String>Assignment</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>C8lUMr48dqXHtgXSj/IA4pbROOY=4/25/2025 11:30:294/25/2025 5:57:22</TimeStamp>
+        <ID>
+          <String>Class</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>1hsS0jLU2sdJfr48ORbvdVgE7JQ=4/25/2025 11:30:114/25/2025 5:57:22</TimeStamp>
+        <ID>
+          <String>Teacher</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>OyN2HC1vOrOjAIHan1HlGfaSjDI=4/25/2025 11:29:594/25/2025 5:57:22</TimeStamp>
+        <ID>
+          <String>Semester</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>LneGoDRS1dLKWE/D0OqhH9l4ITo=4/25/2025 11:29:514/25/2025 5:57:22</TimeStamp>
+        <ID>
+          <String>Subject</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>ha2fuifrnlIBiE27rtoYe0F+YYg=4/25/2025 11:35:074/25/2025 5:57:22GLi/vzmshQ3esPsao2u2dO6Ml5E=4/25/2025 7:57:464/25/2025 5:57:22</TimeStamp>
+        <ID>
+          <String>Jedynka</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>d0/c6qkemM6cVDxdg4kRtFp9gTs=4/25/2025 5:15:494/25/2025 5:15:49</TimeStamp>
+      <ID>
+        <String>MultidimensionalProject2</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2025-04-25T09:35:10.16Z</LastDeployed>
+</DeploymentSnapshot>

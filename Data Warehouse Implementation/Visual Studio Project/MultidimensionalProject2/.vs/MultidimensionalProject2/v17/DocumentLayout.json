@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Dates.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|solutionrelative:MultidimensionalProject2\\Dates.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Class.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|solutionrelative:MultidimensionalProject2\\Class.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Jedynka.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|solutionrelative:MultidimensionalProject2\\Jedynka.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Assignment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|solutionrelative:MultidimensionalProject2\\Assignment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Teacher.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|solutionrelative:MultidimensionalProject2\\Teacher.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Student.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|solutionrelative:MultidimensionalProject2\\Student.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Activity.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{D91E9AF0-0CFE-0644-FC91-354CE1B032A8}|MultidimensionalProject2\\MultidimensionalProject2.dwproj|solutionrelative:MultidimensionalProject2\\Activity.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jedynka.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Jedynka.cube",
+              "RelativeDocumentMoniker": "MultidimensionalProject2\\Jedynka.cube",
+              "ToolTip": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Jedynka.cube [Design]",
+              "RelativeToolTip": "MultidimensionalProject2\\Jedynka.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T09:36:27.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Teacher.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProject2\\Teacher.dim",
+              "ToolTip": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Teacher.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProject2\\Teacher.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T09:31:05.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Class.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProject2\\Class.dim",
+              "ToolTip": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Class.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProject2\\Class.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T09:31:04.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Assignment.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Assignment.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProject2\\Assignment.dim",
+              "ToolTip": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Assignment.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProject2\\Assignment.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T09:31:02.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Student.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProject2\\Student.dim",
+              "ToolTip": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Student.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProject2\\Student.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T09:31:00.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dates.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Dates.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProject2\\Dates.dim",
+              "ToolTip": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Dates.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProject2\\Dates.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T09:30:59.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Activity.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Activity.dim",
+              "RelativeDocumentMoniker": "MultidimensionalProject2\\Activity.dim",
+              "ToolTip": "C:\\Users\\Michal\\source\\repos\\MultidimensionalProject2\\MultidimensionalProject2\\Activity.dim [Design]",
+              "RelativeToolTip": "MultidimensionalProject2\\Activity.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T09:30:57.193Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
